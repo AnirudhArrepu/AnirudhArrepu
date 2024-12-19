@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anirudh Arrepu</h1>
-<h3 align="center">A passionate Computer Science major from IIT Tirupati, interested in Deep learning and App development!</h3>
+<h3 align="center">A passionate Computer Science major from IIT Tirupati, interested in Deep learning and Software development!</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/AnirudhArrepu?tab=repositories](https://github.com/AnirudhArrepu?tab=repositories)
 
