@@ -1,7 +1,7 @@
 # About Me:
 ### `> Hi! I'm Anirudh Arrepu, a CSE Student from IIT Tirupati` 
 #### `> I’m currently working on: Distributed & Scalable Systems`
-#### `> I’m currently learning: MLOps & Reinforcement Learning`
+#### `> I’m currently learning: MLOps & Continual Learning`
 
 
 ## Socials:
