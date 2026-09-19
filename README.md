@@ -161,11 +161,6 @@ AI-powered, Photoshop-style editor built for mobile creative workflows of the fu
 
 ### 📊 GitHub Stats
 
-
-
-<h2 align="center">GitHub Stats</h2>
-
-
 <h2 align="center">GitHub Stats</h2>
 
 <p align="center">
